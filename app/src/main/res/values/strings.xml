@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GeoChat</string>
+    <string name="fullname">Enter you Email</string>
+    <string name="email">Enter your password</string>
+</resources>
